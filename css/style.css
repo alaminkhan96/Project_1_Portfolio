@@ -13,3 +13,18 @@ body{
 .about-container{
     background-color: #00BDBD;
 }
+.education-container{
+    background-color: #EEEEEE;
+}
+.bg-redtype{
+    background-color: #F8857F;
+}
+.redtype-color{
+    color: #F8857F;
+}
+.circle{
+    background-color: #F8857F;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
